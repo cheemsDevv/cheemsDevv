@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there. I'm Ana 👋
+I'm a Front-end Dev 🐱‍💻 and a Designer 🎨!
 <!--
 **cheemsDevv/cheemsDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning ... React 
+
+### 🖥️ Technical skills
+	
+<img alt=”javascript” src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=cheemsDevv)](https://github.com/cheemsDevv)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheemsDevv&layout=compact)](https://github.com/cheemsDevv)
